@@ -9,6 +9,13 @@ Welcome to the Plane Spotting Database project! This is a local web-based applic
 - Explore airport data, including IATA codes, ICAO codes, names, and locations.
 - Visualize aircraft data on a map.
 
+ ## Data Source
+
+The application utilizes the 'adsbdb' API by [Mr. Jack Wills](https://github.com/mrjackwills). You can find more details about the API and its usage in the following links:
+
+- [API GitHub Repository](https://github.com/mrjackwills/adsbdb)
+- [API Website](https://adsbdb.com/)
+
 ## Prerequisites
 
 - PHP (7.0 or higher)
